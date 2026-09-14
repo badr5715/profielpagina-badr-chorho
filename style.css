@@ -1,7 +1,4 @@
-```css
-/* =========================
-   1. Basis van de website
-   ========================= */
+
 
 * {
     margin: 0;
@@ -13,16 +10,11 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f2f2f2;
     color: #222;
-}
 
-
-/* =========================
-   2. Header
-   ========================= */
 
 header {
     background-color: #111;
-    color: white;
+    color:  white;
     text-align: center;
     padding: 30px 20px;
 }
@@ -32,10 +24,6 @@ header h1 {
     margin-bottom: 25px;
 }
 
-
-/* =========================
-   3. Navigatie
-   ========================= */
 
 nav ul {
     list-style: none;
@@ -59,9 +47,6 @@ nav a:hover {
 }
 
 
-/* =========================
-   4. Artikelen
-   ========================= */
 
 article {
     max-width: 800px;
@@ -84,9 +69,6 @@ article p {
 }
 
 
-/* =========================
-   5. Afbeeldingen
-   ========================= */
 
 article img {
     width: 100%;
@@ -98,9 +80,6 @@ article img {
 }
 
 
-/* =========================
-   6. Verschillende kleuren
-   ========================= */
 
 .color-1 {
     background-color: #dbeafe;
@@ -123,9 +102,7 @@ article img {
 }
 
 
-/* =========================
-   7. Footer
-   ========================= */
+
 
 footer {
     background-color: #111;
@@ -134,4 +111,3 @@ footer {
     padding: 25px;
     margin-top: 50px;
 }
-```
